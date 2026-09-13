@@ -1,6 +1,4 @@
-# Tove Hansson
-
-## Presentation
+# Presentation
 
 Hej! Jag heter Tove Hansson, 31 år, från Åre, Jämtlands län. Mina fritidsintressen är utförscykling, skidåkning, spel och vandra i fjäll och skog med min hund Loui.
 

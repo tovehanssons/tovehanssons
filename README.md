@@ -9,9 +9,9 @@ Hej! Jag heter Tove Hansson, 31 år, från Åre, Jämtlands län. Mina fritidsin
 Jag har främst arbetat inom turism samt hotell- och restaurangbranschen i skidorterna Åre, Idre och Whistler.
 
 ## Studier
-Jag studerar för närvarande programmet webbutveckling som är en distansutbildning på Mittuniversitetet.
+Jag studerar programmet webbutveckling som är en distansutbildning på Mittuniversitetet.
 Vi hade kursstart nu i slutet av sommaren och vi har inlett utbildningen med en kurs som heter "Introduktion till webbutveckling med HTML, CSS och JavaScript". 
-Jag håller på att lära mig om versionshantering, webbpublicering och modern webbutveckling.
+Jag håller just nu på att lära mig om versionshantering, webbpublicering och modern webbutveckling.
 
 ## Tekniker:
 
